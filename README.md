@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer based in Bangalore</h3>
 <img align="right" alt = "animated_profile" width = "300"src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🌱 I’m currently learning **Redux, Webpack**
+- 🌱 I’m currently working in Cognizant as a Software Engineer
 
-- 💬 Ask me about **HTML, CSS, javascript, React js**
+- 💬 Ask me about **HTML, CSS, javascript, React js, Webpack, Jest **
 
 - 📫 How to reach me **raghavks99@gmail.com**
 
