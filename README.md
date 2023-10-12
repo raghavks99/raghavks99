@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working in Cognizant as a Software Engineer
 
-- 💬 Ask me about **HTML, CSS, javascript, React js, Webpack, Jest **
+- 💬 Ask me about **HTML, CSS, javascript, React js **
 
 - 📫 How to reach me **raghavks99@gmail.com**
 
