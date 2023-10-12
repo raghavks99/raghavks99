@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karthikeyan Raghav</h1>
 <h3 align="center">A passionate frontend developer based in Bangalore</h3>
+<img align="right" alt = "animated_profile" width = "400"src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🌱 I’m currently learning **Redux, Webpack**
 
